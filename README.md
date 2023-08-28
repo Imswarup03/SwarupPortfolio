@@ -1,2 +1,1 @@
-# SwarupPortfolio
-Portfolio Using HTML CSS
+// added project and stack file
