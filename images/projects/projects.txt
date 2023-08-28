@@ -1,2 +1,3 @@
 swarup's project folder
 projects.txt is added in local
+projects.txt added in remote
