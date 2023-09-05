@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap');
-theme: minima
+
+theme: Hacker;
+
 *{
     margin:0;
     padding:0;
